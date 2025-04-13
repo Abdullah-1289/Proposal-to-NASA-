@@ -16,3 +16,5 @@ finally calculate profit
 
 
 should add creating a survey to gather public opinion
+
+next is dsitributing the survey to the population
