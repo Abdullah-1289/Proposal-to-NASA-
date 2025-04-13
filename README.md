@@ -13,3 +13,10 @@ Lastly, they should start a arketing campaign for their car and encourage space 
 maybe add do cost calculation for this project
 add revenue calculation for this project
 finally calculate profit
+
+
+should add creating a survey to gather public opinion
+
+next is dsitributing the survey to the population
+
+lastly analysing the results of the survey
