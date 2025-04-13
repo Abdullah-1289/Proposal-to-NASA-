@@ -9,3 +9,5 @@ The technologies needed will be the manufacturing tools to build motors and othe
 To start this project NASA will have to find an initial funding for manufacturing cars after this first investment the project will fund itself.
 Next NASA should allocate its human resuorces such as the engineers and others to work partly on developing these cars. 
 Lastly, they should start a arketing campaign for their car and encourage space enthusist to purchase their cars as it will help in the progress of space exploration.
+
+maybe add do cost calculation for this project
