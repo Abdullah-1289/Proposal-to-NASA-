@@ -11,3 +11,4 @@ Next NASA should allocate its human resuorces such as the engineers and others t
 Lastly, they should start a arketing campaign for their car and encourage space enthusist to purchase their cars as it will help in the progress of space exploration.
 
 maybe add do cost calculation for this project
+add revenue calculation for this project
