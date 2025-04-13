@@ -12,3 +12,4 @@ Lastly, they should start a arketing campaign for their car and encourage space 
 
 maybe add do cost calculation for this project
 add revenue calculation for this project
+finally calculate profit
